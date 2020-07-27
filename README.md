@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ant Design Pro
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
@@ -55,3 +56,6 @@ npm test
 ## More
 
 You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+=======
+# umi-antd-pro
+>>>>>>> 2cc1b3c55cd3aeae809c02bb2e0c88ba4298f028
